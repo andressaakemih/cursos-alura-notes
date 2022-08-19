@@ -32,7 +32,7 @@ Já a imagem de fundo, que apresenta vários instrutores da Alura, foi implement
 
 ```css
 .principal {
-background-image: url(“img/Background”);
+	background-image: url(“img/Background”);
 }
 ```
 
