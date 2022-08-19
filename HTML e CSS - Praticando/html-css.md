@@ -66,7 +66,7 @@ Eles possuem significados diferentes, e cabe à pessoa desenvolvedora compreende
 
 Analise o botão do layout a seguir e escolha qual elemento é mais apropriado para usar e a sua motivação:
 
-![Untitled](HTML%20e%20CSS%20Praticando%206758b2cc0a7043b3bade98e5bf18bbe3/Untitled.png)
+![](HTML e CSS - Praticando/img/Untitled 1.png)
 
 → O elemento que deverá ser usado é o `<button>` por executar uma função ao ser clicado: apagar os dados do formulário.
 
