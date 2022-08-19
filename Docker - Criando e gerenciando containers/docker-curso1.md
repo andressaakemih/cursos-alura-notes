@@ -1,10 +1,10 @@
 # Docker: Criando e gerenciando containers
 
-Assunto: Docker
-Criado: March 3, 2022 12:06 PM
-Finalizado: No
-Materiais: https://cursos.alura.com.br/course/docker-criando-gerenciando-containers
-Plataforma: Alura
+- Assunto: Docker
+- Criado: March 3, 2022 12:06 PM
+- Finalizado: No
+- Materiais: https://cursos.alura.com.br/course/docker-criando-gerenciando-containers
+- Plataforma: Alura
 
 ## I - Conhecendo o Docker
 
