@@ -1,10 +1,10 @@
 # HTML e CSS: Praticando
 
-Assunto: HTML e CSS
-Criado: March 25, 2022 4:02 PM
-Finalizado: Yes
-Materiais: https://cursos.alura.com.br/course/html-css-praticando-html-css/task/103160
-Plataforma: Alura
+*Assunto: HTML e CSS
+*Criado: March 25, 2022 4:02 PM
+*Finalizado: Yes
+*Materiais: https://cursos.alura.com.br/course/html-css-praticando-html-css/task/103160
+*Plataforma: Alura
 
 ### Anotações
 
@@ -76,7 +76,7 @@ Analise o botão do layout a seguir e escolha qual elemento é mais apropriado p
 
 Utilizando do conhecimento adquirido no vídeo anterior, qual código abaixo resulta na divisão da tela representada pela imagem a seguir?
 
-![Untitled](HTML%20e%20CSS%20Praticando%206758b2cc0a7043b3bade98e5bf18bbe3/Untitled%201.png)
+![layout sessão se inscreva](https://github.com/andressaakemih/cursos-alura-notes/blob/main/HTML%20e%20CSS%20-%20Praticando/img/Untitled%201.png)
 
 ```css
 display: grid;
