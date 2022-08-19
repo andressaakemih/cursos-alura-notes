@@ -1,4 +1,4 @@
-# :books: EMO HTML e CSS: Praticando
+# :computer: HTML e CSS: Praticando
 
 * Assunto: HTML e CSS
 * Criado: March 25, 2022 4:02 PM
