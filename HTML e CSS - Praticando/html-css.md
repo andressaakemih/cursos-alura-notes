@@ -1,10 +1,10 @@
 # HTML e CSS: Praticando
 
-*Assunto: HTML e CSS
-*Criado: March 25, 2022 4:02 PM
-*Finalizado: Yes
-*Materiais: https://cursos.alura.com.br/course/html-css-praticando-html-css/task/103160
-*Plataforma: Alura
+* Assunto: HTML e CSS
+* Criado: March 25, 2022 4:02 PM
+* Finalizado: Yes
+* Materiais: https://cursos.alura.com.br/course/html-css-praticando-html-css/task/103160
+* Plataforma: Alura
 
 ### Anotações
 
@@ -66,7 +66,7 @@ Eles possuem significados diferentes, e cabe à pessoa desenvolvedora compreende
 
 Analise o botão do layout a seguir e escolha qual elemento é mais apropriado para usar e a sua motivação:
 
-![](HTML e CSS - Praticando/img/Untitled 1.png)
+![Exemplo de layout de formulário](https://github.com/andressaakemih/cursos-alura-notes/blob/main/HTML%20e%20CSS%20-%20Praticando/img/Untitled.png)
 
 → O elemento que deverá ser usado é o `<button>` por executar uma função ao ser clicado: apagar os dados do formulário.
 
@@ -157,7 +157,7 @@ Imagine que você está desenvolvendo outro projeto ao mesmo tempo no nosso time
 
 Visualmente, após algumas estilizações feitas com CSS, o resultado desse código ficará assim:
 
-![Untitled](HTML%20e%20CSS%20Praticando%206758b2cc0a7043b3bade98e5bf18bbe3/Untitled%202.png)
+![Alura Cats! Exemplo de layout](https://github.com/andressaakemih/cursos-alura-notes/blob/main/HTML%20e%20CSS%20-%20Praticando/img/Untitled%202.png)
 
 Você pode testar o código do Alura Cats no meu [repositório do codepen](https://codepen.io/mmhillman/pen/JjOwNMB).
 
