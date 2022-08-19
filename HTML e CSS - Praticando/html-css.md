@@ -1,10 +1,10 @@
 # HTML e CSS: Praticando
 
-Assunto: HTML e CSS
-Criado: March 25, 2022 4:02 PM
-Finalizado: Yes
-Materiais: https://cursos.alura.com.br/course/html-css-praticando-html-css/task/103160
-Plataforma: Alura
+* Assunto: HTML e CSS
+* Criado: March 25, 2022 4:02 PM
+* Finalizado: Yes
+* Materiais: https://cursos.alura.com.br/course/html-css-praticando-html-css/task/103160
+* Plataforma: Alura
 
 ### Anotações
 
